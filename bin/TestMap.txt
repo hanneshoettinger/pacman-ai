@@ -1,6 +1,6 @@
 GlobalState=pursuit
 5111111111111ab1111111111116
-4..J.........DB............2
+4............DB............2
 4.EAAF.EAAAF.DB.EAAAF.EAAF.2
 4*D  B.D   B.DB.D   B.D  B*2
 4.GCCH.GCCCH.GH.GCCCH.GCCH.2
@@ -19,7 +19,7 @@ GlobalState=pursuit
      4.DB          DB.2     
      4.DB EAAAAAAF DB.2     
 51111].GH GCCFECCH GH.[11116
-4............DBO...........2
+4.......J....DBO...........2
 4.EAAF.EAAAF.DB.EAAAF.EAAF.2
 4.GCFB.GCCCH.GH.GCCCH.DECH.2
 4*..DB............l...DB..*2

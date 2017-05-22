@@ -2,6 +2,8 @@
 
 In this project the basic pacman (ghost) behavior is implemented and demonstrated with a test map. The game could be modified to be a fully playable solution. Moreover, Google Unit Testing is executed (demo purpose).
 
+https://youtu.be/QxTmpNPwc7c
+
 Sprite sheet is included. Game UI with SFML 2.3.2 (https://www.sfml-dev.org/).
 
 ## Game
