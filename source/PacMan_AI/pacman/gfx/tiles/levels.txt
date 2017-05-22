@@ -1,0 +1,79 @@
+// --------------------------------------------------------
+// tile map encoding
+// --------------------------------------------------------
+
+// 1 ... outer wall top
+// 2 ... outer wall right
+// 3 ... outer wall bottom
+// 4 ... outer wall left
+// 5 ... outer corner top left
+// 6 ... outer corner top right
+// 7 ... outer corner bottom right
+// 8 ... outer corner bottom left
+// ( ... outer corner narrow top left
+// ) ... outer corner narrow top right
+// [ ... outer corner narrow bottom right
+// ] ... outer corner narrow bottom left
+// > ... gate left
+// < ... gate right
+// - ... door
+
+
+// A ... wall top
+// B ... wall right
+// C ... wall bottom
+// D ... wall left
+// E ... corner top left
+// F ... corner top right
+// G ... corner bottom right
+// H ... corner bottom left
+
+// a ... outer nose top left
+// b ... outer nose top right
+// c ... outer nose right top
+// d ... outer nose right bottom
+// e ... outer nose bottom left
+// f ... outer nose bottom right
+// g ... outer nose left top
+// h ... outer nose left bottom
+
+//   ... free space
+// . ... dot
+// * ... big dot
+
+
+LEVEL_A=	"5111111111111ab1111111111116" +
+		"4............DB............2" +
+		"4.EAAF.EAAAF.DB.EAAAF.EAAF.2" +
+		"4*D  B.D   B.DB.D   B.D  B*2" +
+		"4.GCCH.GCCCH.GH.GCCCH.GCCH.2" +
+		"4..........................2" +
+		"4.EAAF.EF.EAAAAAAF.EF.EAAF.2" +
+		"4.GCCH.DB.GCCFECCH.DB.GCCH.2" +
+		"4......DB....DB....DB......2" +
+		"83333).DGAAF DB EAAHB.(33337" +
+		"     4.DECCH GH GCCFB.2     " +
+		"     4.DB          DB.2     " +
+		"     4.DB (3>--<3) DB.2     " +
+		"11111].GH 2      4 GH.[11111" +
+		"      .   2      4   .      " +
+		"33333).EF 2      4 EF.(33333" +
+		"     4.DB [111111] DB.2     " +
+		"     4.DB          DB.2     " +
+		"     4.DB EAAAAAAF DB.2     " +
+		"51111].GH GCCFECCH GH.[11116" +
+		"4............DB............2" +
+		"4.EAAF.EAAAF.DB.EAAAF.EAAF.2" +
+		"4.GCFB.GCCCH.GH.GCCCH.DECH.2" +
+		"4*..DB................DB..*2" +
+		"gAF.DB.EF.EAAAAAAF.EF.DB.EAc" +
+		"hCH.GH.DB.GCCFECCH.DB.GH.GCd" +
+		"4......DB....DB....DB......2" +
+		"4.EAAAAHGAAF.DB.EAAHGAAAAF.2" +
+		"4.GCCCCCCCCH.GH.GCCCCCCCCH.2" +
+		"4..........................2" +
+		"8333333333333333333333333337";
+
+LEVEL_A_PACMAN_X=13
+LEVEL_A_PACMAN_Y=23
+

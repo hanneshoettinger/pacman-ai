@@ -1,0 +1,32 @@
+GlobalState=pursuit
+5111111111111ab1111111111116
+4............DB............2
+4.EAAF.EAAAF.DB.EAAAF.EAAF.2
+4*D  B.D   B.DB.D   B.D  B*2
+4.GCCH.GCCCH.GH.GCCCH.GCCH.2
+4............n.............2
+4.EAAF.EF.EAAAAAAF.EF.EAAF.2
+4.GCCH.DB.GCCFECCH.DB.GCCH.2
+4......DB....DB....DB......2
+83333).DGAAF DB EAAHB.(33337
+     4.DECCH GH GCCFB.2     
+     4.DB          DB.2     
+     4.DB (3>--<3) DB.2     
+11111].GH 2      4 GH.[11111
+    R .   2      4   .       
+33333).EF 2      4 EF.(33333
+     4.DB [111111] DB.2     
+     4.DB          DB.2     
+     4.DB EAAAAAAF DB.2     
+51111].GH GCCFECCH GH.[11116
+4............DBO...........2
+4.EAAF.EAAAF.DB.EAAAF.EAAF.2
+4.GCFB.GCCCH.GH.GCCCH.DECH.2
+4*..DB............l...DB..*2
+gAF.DB.EF.EAAAAAAF.EF.DB.EAc
+hCH.GH.DB.GCCFECCH.DB.GH.GCd
+4..J...DB....DB....DB......2
+4.EAAAAHGAAF.DB.EAAHGAAAAF.2
+4.GCCCCCCCCH.GH.GCCCCCCCCH.2
+4..........................2
+8333333333333333333333333337
