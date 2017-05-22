@@ -1,6 +1,6 @@
 # pacman-ai
 
-In this project the basic pacman (ghost) behavior is implemented and demonstrated with a test map. The game could be modified to be a full playable solution. Moreover, Google Unit Testing is executed (demo purpose).
+In this project the basic pacman (ghost) behavior is implemented and demonstrated with a test map. The game could be modified to be a fully playable solution. Moreover, Google Unit Testing is executed (demo purpose).
 
 Sprite sheet is included. Game UI with SFML 2.3.2 (https://www.sfml-dev.org/).
 
@@ -27,7 +27,7 @@ Sprite sheet is included. Game UI with SFML 2.3.2 (https://www.sfml-dev.org/).
 2. replace old location with empty sprite (draw also ghost shadow)
 3. save GameMap as picture
 
-PacMan_AI.exe ist the main file.
+PacMan_AI.cpp ist the main file.
 
 1. PacMan_AI.exe: < TestMap.txt > necessary
 2. PacMan_AI.exe with Command Line: 
